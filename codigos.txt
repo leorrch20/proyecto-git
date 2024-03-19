@@ -1,0 +1,13 @@
+git add
+
+git log --oneline    = ver listado de commit en una linea
+
+
+git branch   = ver en que rama estamos
+
+git checkout -b ramaNueva  = creaer nueva rama y cambiar
+
+git checkout master   = cambiar a rama
+
+git merge ramaNueva   = unir la rama con master 
+
